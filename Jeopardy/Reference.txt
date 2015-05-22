@@ -1,0 +1,9 @@
+1. Action listener for Mouse Click Event
+http://docs.oracle.com/javase/7/docs/api/java/awt/event/MouseMotionListener.html
+http://docs.oracle.com/javase/7/docs/api/java/awt/event/MouseEvent.html
+https://docs.oracle.com/javase/tutorial/uiswing/events/mouselistener.html
+Pop up or display at bottom?
+
+2. Text input
+http://docs.oracle.com/javase/7/docs/api/javax/swing/JTextField.html
+https://docs.oracle.com/javase/tutorial/uiswing/components/textfield.html
